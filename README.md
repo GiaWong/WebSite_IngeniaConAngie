@@ -28,6 +28,10 @@ El sitio web está diseñado para representar la identidad visual y los servicio
 > Por cuestiones de privacidad y confidencialidad del cliente, **el código fuente original del proyecto se mantiene en un repositorio privado**.  
 > Lo que se muestra públicamente es el resultado visual y funcional final del desarrollo.
 
+##  Video demostrativo
+
+🔗 [Ver presentación en YouTube](https://youtu.be/9M96m3kUz_s)
+
 ## Contacto
 
 Para consultas o sugerencias sobre este proyecto:
@@ -35,6 +39,7 @@ Para consultas o sugerencias sobre este proyecto:
 - Correo: laboral.wong@gmail.com
 
 ---
+
 
 Desarrollado por [Wongia](https://github.com/GiaWong)
 
