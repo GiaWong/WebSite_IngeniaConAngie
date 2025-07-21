@@ -23,9 +23,10 @@ El sitio web está diseñado para representar la identidad visual y los servicio
 - **Base de Datos**: Firebase Firestore
 - **Hosting**: Firebase Hosting
 
-## Consideraciones
+##  Nota sobre privacidad
 
-Este proyecto fue desarrollado específicamente para **IngeniaConAngie**, por lo que cualquier modificación debe ser consultada con la empresa o la autora del código.
+> Por cuestiones de privacidad y confidencialidad del cliente, **el código fuente original del proyecto se mantiene en un repositorio privado**.  
+> Lo que se muestra públicamente es el resultado visual y funcional final del desarrollo.
 
 ## Contacto
 
